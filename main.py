@@ -8,7 +8,7 @@ from telebot import types
 from host import Host
 from helper import *
 
-tb = TeleBot('741854622:AAGbBUJEHWrFLPH8PAhzZiLh18vOZJ4cy9E')
+tb = TeleBot('849930577:AAGZIZNfjtLB1PI398yyrVQdjFzSK3XJoCY')
 host = Host()
 
 
