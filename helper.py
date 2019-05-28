@@ -2,7 +2,7 @@ import requests
 
 from telebot import types
 
-client_id = '386295260add4f168cafc3347dfc056a'
+client_id = 'f35c6306bd0c443d83a9e371cd525413'
 oauth_url = f'https://oauth.yandex.ru/authorize?response_type=token&client_id={client_id}'
 
 set_token_msg = 'Для работы с ботом Вам необходимо установить OAuth' \
